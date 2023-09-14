@@ -3,27 +3,27 @@
   <groupId>com.stepup</groupId>
   <artifactId>stepup-commons</artifactId>
   <versioning>
-    <lastUpdated>20230914165339</lastUpdated>
+    <lastUpdated>20230914170527</lastUpdated>
     <snapshot>
-      <timestamp>20230914.165339</timestamp>
+      <timestamp>20230914.170527</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20230914.165339-1</value>
-        <updated>20230914165339</updated>
+        <value>0.0.1-20230914.170527-1</value>
+        <updated>20230914170527</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20230914.165339-1</value>
-        <updated>20230914165339</updated>
+        <value>0.0.1-20230914.170527-1</value>
+        <updated>20230914170527</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>exec</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20230914.165339-1</value>
-        <updated>20230914165339</updated>
+        <value>0.0.1-20230914.170527-1</value>
+        <updated>20230914170527</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
